@@ -4,7 +4,7 @@ namespace RYSE\GitHubUpdaterDemo;
 
 /**
  * Plugin Name:        GitHub Updater Demo
- * Plugin URI:         https://github.com/ryansechrest/github-updater-demo
+ * Plugin URI:         https://github.com/danielmerriott/github-updater-demo
  * Version:            1.1.1
  * Description:        WordPress plugin to demonstrate how `GitHubUpdater` can enable WordPress to check for and update a custom plugin that's hosted in either a public or private repository on GitHub.
  * Author:             Ryan Sechrest
@@ -13,7 +13,7 @@ namespace RYSE\GitHubUpdaterDemo;
  * Tested up to:       6.6.1
  * Requires at least:  6.5
  * Requires PHP:       8.2
- * Update URI:         https://github.com/ryansechrest/github-updater-demo
+ * Update URI:         https://github.com/danielmerriott/github-updater-demo
  * License:            GPLv2
  * License URI:        https://www.gnu.org/licenses/gpl-2.0.html
  */
